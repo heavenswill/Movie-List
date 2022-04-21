@@ -65,5 +65,3 @@
 + Read movie's comments
 
 `near call $CONTRACT getCommentsByMovieId '{"id":MOVIE ID,"limit":<LIMIT OF GET COMMENT>}' --accountId YOUR-ACCOUNT.testnet`
-
-## Loom Video
